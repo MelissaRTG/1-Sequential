@@ -1,0 +1,14 @@
+
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ş°¡ìÆ0
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Œ¯˜Îÿÿÿÿÿ8ş°¡ìÆ0
+E
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ş°¡ìÆ0
+Z
+java:S1854"8Remove this useless assignment to local variable "line".(Ç½Œâıÿÿÿÿ8ş°¡ìÆ0
+n
+java:S2095 "LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Œ¯˜Îÿÿÿÿÿ8ş°¡ìÆ0
+“
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ûÍìÆ0

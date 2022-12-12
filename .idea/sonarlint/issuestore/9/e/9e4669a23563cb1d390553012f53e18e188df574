@@ -1,0 +1,30 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "extreme".(²æÎÿıÿÿÿÿ8å²¡ìÆ0
+D
+java:S1905;"'Remove this unnecessary cast to "List".(í¹ùê8å²¡ìÆ0
+m
+java:S3457V"Q%n should be used in place of \n to produce the platform-specific line separator.(ä¦¼68å²¡ìÆ0
+x
+java:S1450B"VRemove the "endTime" field and declare it as a local variable in the relevant methods.(¶¡ôÀüÿÿÿÿ8å²¡ìÆ0
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(äüÇ8å²¡ìÆ0
+E
+java:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8å²¡ìÆ0
+s
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(­àÛ8å²¡ìÆ0
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(«™œÿÿÿÿÿ8å²¡ìÆ0
+y	java:S116
+"XRename this field "TOTAL_THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öş¸¡ıÿÿÿÿ8å²¡ìÆ0
+f
+java:S1226"DIntroduce a new variable instead of reusing the parameter "extreme".(²æÎÿıÿÿÿÿ8å²¡ìÆ0
+g
+java:S2184T"ECast one of the operands of this subtraction operation to a "double".(òÚÇÊüÿÿÿÿ8å²¡ìÆ0
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(õ®¤ç8å²¡ìÆ0
+u
+java:S1450A"XRemove the "startTime" field and declare it as a local variable in the relevant methods.(÷Œ¾8å²¡ìÆ0
+T	java:S106V"9Replace this use of System.out or System.err by a logger.(ä¦¼68å²¡ìÆ0
+N
+java:S1481",Remove this unused "extreme" local variable.(÷¯úÿÿÿÿÿ8å²¡ìÆ0
